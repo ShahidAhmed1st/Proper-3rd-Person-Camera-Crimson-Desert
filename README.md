@@ -9,8 +9,8 @@
 
 -**Unlike a broader camera overhaul, this is a single curated release built around one clear goal: a proper third-person camera with a strong RDR2-style bias.**
 
-!<img width="360" height="210" alt="image" src="https://github.com/user-attachments/assets/91de7edc-ee42-4759-b9df-f8c25bdac04a" />
-!<img width="360" height="210" alt="image" src="https://github.com/user-attachments/assets/819ac966-4c25-42d7-8aea-15fc9e59e145" />
+<img width="360" height="210" alt="image" src="https://github.com/user-attachments/assets/91de7edc-ee42-4759-b9df-f8c25bdac04a" />
+<img width="360" height="210" alt="image" src="https://github.com/user-attachments/assets/819ac966-4c25-42d7-8aea-15fc9e59e145" />
 
 
 ---
